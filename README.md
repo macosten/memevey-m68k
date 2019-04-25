@@ -1,2 +1,2 @@
 # memevey-m68k
-This is Memevey. Port Memevey in as many operating systems as possible or she will never be a meme...
+memevey-m68k requires Retro68.
