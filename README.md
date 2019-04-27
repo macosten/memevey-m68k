@@ -9,4 +9,5 @@ The release should work just as well.
 pika.r is a file containing a single PICT resource obtained by:
   1. Selecting part of an image in an image editor and copy/pasting it into a ResEdit resource.
   2. Decompiling the resulting ResEdit file with DeRez.
+  
 If you know of a better way of getting PICT resources, please tell me!
